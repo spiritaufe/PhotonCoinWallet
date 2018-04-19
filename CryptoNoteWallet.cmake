@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "")
-set(CN_CURRENCY_DISPLAY_NAME "")
+set(CN_PROJECT_NAME "Social Influence Coin")
+set(CN_CURRENCY_DISPLAY_NAME "SIC")
 set(CN_CURRENCY_TICKER "")
